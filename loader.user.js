@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        AposLoader
-// @namespace   AposLoader
-// @description Grabs latest versions of the bot scripts automatically.
+// @name        Anton
+// @namespace   Anton
+// @description
 // @include     http://agar.io/
 // @version     1.3
 // @grant       none
